@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1051560236306",
+    "project_id": "blingo-56821",
+    "storage_bucket": "blingo-56821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051560236306:android:c1e94e0c4514b95f358fcb",
+        "android_client_info": {
+          "package_name": "com.example.blingo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051560236306-n4e2jmo73960sjkdduful81p7kmdmh97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blingo2",
+            "certificate_hash": "879e24f5baaf70ac485c715a0bbb4010a5a13a71"
+          }
+        },
+        {
+          "client_id": "1051560236306-pia1f5ah5ifu8bg4qn7ass240g06jlgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyc8Yo4-8y1iTjJ0-S6TvJAMarin_5p6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051560236306-pia1f5ah5ifu8bg4qn7ass240g06jlgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
